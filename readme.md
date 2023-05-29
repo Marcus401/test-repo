@@ -10,4 +10,5 @@ just waiting for something ig
 #include std;
 
 int main():
-    std::cout << "Hello World";```
+    std::cout << "Hello World";
+```
